@@ -4,7 +4,7 @@ import ScrollAnimation from "./ui/ScrollAnimation";
 
 const Profile = () => {
   return (
-    <div className="grid grid-cols-3 items-center h-[90vh] max-[1200px]:grid-cols-2 max-[871px]:flex max-[871px]:flex-col-reverse max-[871px]:h-fit max-[871px]:pt-10">
+    <div className="grid grid-cols-3 items-center h-[50vh] max-[1200px]:grid-cols-2 max-[871px]:flex max-[871px]:flex-col-reverse max-[871px]:h-fit max-[871px]:pt-10">
       <div className="text-[#94a3b8] col-span-2 max-[1200px]:col-span-1 max-[871px]:row-span-1">
         <ScrollAnimation delaySec={0.2}>
           <div className="text-[#e2e8f0] text-5xl font-bold text-end p-2 max-[1200px]:text-4xl max-[1200px]:text-center">
