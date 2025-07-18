@@ -1,5 +1,17 @@
 export const data = [
   {
+    company: "Agua Fuente",
+    role: "Senior IT Associate (Reliever)",
+    year: "April 21, 2025 - July 9, 2025",
+    responsibility: {
+      res1: "Hardware Maintenance & Upgrades: Assembled desktop computers and disassembled laptops as needed to upgrade components such as RAM and SSD. Performed deep cleaning and reapplied thermal paste for optimal performance.",
+
+      res2: "Printer & Network Configuration: Troubleshot printer issues and configured them to connect with multiple PCs by department. Crimped LAN cables and connected devices to network hubs to ensure stable network access.",
+
+      res3: "System Setup & Software Installation: Formatted PCs, installed operating systems, set up essential software, and connected systems to the NAS file server for shared file access across the organization.",
+    },
+  },
+  {
     company: "Twodots",
     role: "Data Analyst",
     year: "2022 - 2023",
