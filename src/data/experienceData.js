@@ -6,9 +6,9 @@ export const data = [
     responsibility: {
       res1: "Hardware Maintenance & Upgrades: Assembled desktop computers and disassembled laptops as needed to upgrade components such as RAM and SSD. Performed deep cleaning and reapplied thermal paste for optimal performance.",
 
-      res2: "Printer & Network Configuration: Troubleshot printer issues and configured them to connect with multiple PCs by department. Crimped LAN cables and connected devices to network hubs to ensure stable network access.",
+      res2: "Printer & Network Configuration: Troubleshoot printer issues and configured them to connect with multiple PCs by department. Crimped LAN cables and connected devices to network hubs to ensure stable network access.",
 
-      res3: "System Setup & Software Installation: Formatted PCs, installed operating systems, set up essential software, and connected systems to the NAS file server for shared file access across the organization.",
+      res3: "System Setup & Software Installation: Formatted PCs, installed operating systems, set up essential software and connect systems to the NAS file server for shared file access across the organization.",
     },
   },
   {
